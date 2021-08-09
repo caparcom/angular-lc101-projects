@@ -16,3 +16,8 @@ img {
     display: block;
     margin: auto;
 }
+
+p {
+    color: rgb(51, 248, 2);
+    text-align: center;
+}
